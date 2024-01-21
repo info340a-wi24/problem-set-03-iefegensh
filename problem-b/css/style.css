@@ -2,3 +2,28 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Nunito Sans', Arial, sans-serif;
+    font-size: 16px; 
+}
+
+h1 {
+    font-family: "Raleway", Helvetica , sans-serif;
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+
+h2 {
+    font-family: "Raleway", Helvetica , sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-size: 1rem; 
+    position: relative;
+    top: 5px; 
+}
